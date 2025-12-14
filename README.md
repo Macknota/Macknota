@@ -28,6 +28,27 @@
 <br/>
 
 <div align="center">
+  <h2>🚧 Featured Projects</h2>
+</div>
+
+- 🛒 [**E-Commerce API (Store.G02)**](https://github.com/Macknota/Store.G02)
+  - A robust, scalable RESTful API built with **.NET 8** and **Clean Architecture**.
+  - Features: **Specification Pattern**, **Redis Caching**, **Stripe Payment**, **Docker Support**.
+  - Technologies: C#, ASP.NET Core, EF Core, SQL Server, Redis.
+
+<br/>
+
+<div align="center">
+  <h2>🎓 Certifications</h2>
+</div>
+
+- 🏅 **Back-End Development Diploma** - Route Academy (2025)
+  - Intensive training covering advanced C#, databases, and enterprise API development.
+- 🎓 **Bachelor of Science in Computer Science** - Benha University (2023)
+
+<br/>
+
+<div align="center">
   <h2>🌟 Highlights</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Macknota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macknota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages graph" />
