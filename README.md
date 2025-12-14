@@ -31,9 +31,9 @@
   <h2>📚 Currently Learning</h2>
 </div>
 
-- 🔹 **Advanced .NET Performance Optimization**
-- 🔹 **Cloud Security (Azure Security Center, IAM)**
-- 🔹 **Red Team Techniques for advanced pentesting**
+- 🔹 **Microservices Architecture with .NET**
+- 🔹 **Advanced System Design & Scalability**
+- 🔹 **CI/CD Pipelines (GitHub Actions & Azure DevOps)**
 
 <br/>
 
@@ -41,11 +41,11 @@
   <h2>🤝 Let's Collaborate</h2>
 </div>
 
-🚀 **Open for Freelance Projects, Internships, and Research in:**
+🚀 **Open for Full-time Roles, Freelance Projects, and Collaboration in:**
 
-- **Backend Development (.NET, APIs)**
-- **Penetration Testing & Security Audits**
-- **Cloud & Containerized Systems**
+- **Backend System Design & Development**
+- **Building High-Performance REST APIs**
+- **Cloud-Native Applications (.NET & Docker)**
 
 <br/>
 
@@ -56,7 +56,6 @@
 - 🏅 **Back-End Development Diploma** - Route Academy (2025)
   - Intensive training covering advanced C#, databases, and enterprise API development.
 - 🎓 **Bachelor of Science in Computer Science** - Benha University (2023)
-- ✔️ **Microsoft Certified: Azure Fundamentals** (In Progress)
 
 <br/>
 
@@ -105,7 +104,6 @@
   <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 <br/>
@@ -143,5 +141,5 @@
 
 <br/>
 <div align="center">
-  <i>"Security is not a product, but a process."</i>
+  <i>"Clean code always looks like it was written by someone who cares."</i>
 </div>
