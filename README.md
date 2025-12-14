@@ -63,7 +63,7 @@
   <h2>🚧 Featured Projects</h2>
 </div>
 
-- 🛒 [**E-Commerce API (Store.G02)**](https://github.com/Macknota/Store.G02)
+- 🛒 [**E-Commerce API (Store.G02)**](https://github.com/Macknota/E-Commerce)
   - A robust, scalable RESTful API built with **.NET 8** and **Clean Architecture**.
   - Features: **Specification Pattern**, **Redis Caching**, **Stripe Payment**, **Docker Support**.
   - Technologies: C#, ASP.NET Core, EF Core, SQL Server, Redis.
