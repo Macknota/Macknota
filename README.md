@@ -28,13 +28,24 @@
 <br/>
 
 <div align="center">
-  <h2>🚧 Featured Projects</h2>
+  <h2>📚 Currently Learning</h2>
 </div>
 
-- 🛒 [**E-Commerce API (Store.G02)**](https://github.com/Macknota/Store.G02)
-  - A robust, scalable RESTful API built with **.NET 8** and **Clean Architecture**.
-  - Features: **Specification Pattern**, **Redis Caching**, **Stripe Payment**, **Docker Support**.
-  - Technologies: C#, ASP.NET Core, EF Core, SQL Server, Redis.
+- 🔹 **Advanced .NET Performance Optimization**
+- 🔹 **Cloud Security (Azure Security Center, IAM)**
+- 🔹 **Red Team Techniques for advanced pentesting**
+
+<br/>
+
+<div align="center">
+  <h2>🤝 Let's Collaborate</h2>
+</div>
+
+🚀 **Open for Freelance Projects, Internships, and Research in:**
+
+- **Backend Development (.NET, APIs)**
+- **Penetration Testing & Security Audits**
+- **Cloud & Containerized Systems**
 
 <br/>
 
@@ -45,6 +56,18 @@
 - 🏅 **Back-End Development Diploma** - Route Academy (2025)
   - Intensive training covering advanced C#, databases, and enterprise API development.
 - 🎓 **Bachelor of Science in Computer Science** - Benha University (2023)
+- ✔️ **Microsoft Certified: Azure Fundamentals** (In Progress)
+
+<br/>
+
+<div align="center">
+  <h2>🚧 Featured Projects</h2>
+</div>
+
+- 🛒 [**E-Commerce API (Store.G02)**](https://github.com/Macknota/Store.G02)
+  - A robust, scalable RESTful API built with **.NET 8** and **Clean Architecture**.
+  - Features: **Specification Pattern**, **Redis Caching**, **Stripe Payment**, **Docker Support**.
+  - Technologies: C#, ASP.NET Core, EF Core, SQL Server, Redis.
 
 <br/>
 
@@ -72,6 +95,17 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🔧 Tools I Use Daily</h2>
+  
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 <br/>
