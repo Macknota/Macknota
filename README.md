@@ -82,10 +82,9 @@
   <h2>🛠️ Tech Stack</h2>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,redis,docker,git,github,postman,visualstudio,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,git,github,postman,visualstudio,vscode&perline=10" />
   </a>
-</div>
-  
+</div>  
 
 
 <br/>
