@@ -1,14 +1,14 @@
 <div align="center">
- 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
   
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+   
   <h1 align="center">Hi there, I'm Adel Magdy 👋</h1>
-  <h3 align="center">🚀 .NET Backend Developer | Clean Architecture Enthusiast</h3>
+  <h3 align="center">🚀 Full Stack Software Engineer (.NET & Angular) | Clean Architecture Enthusiast</h3>
 
   ---
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Backend+.NET+Engineer;Building+Scalable+APIs;Clean+Architecture;SQL+Server+%26+Redis;Always+Learning+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Building+Scalable+APIs+(.NET+8);Crafting+UIs+(Angular+18);Clean+Architecture+%26+SOLID;SQL+Server,+Redis+%26+Docker" alt="Typing SVG" />
   </a>
 
 </div>
@@ -19,10 +19,10 @@
   <h2>🧐 About Me</h2>
 </div>
 
-- 🔭 I’m currently working on **Advanced E-Commerce Enterprise APIs**.
+- 🔭 I’m currently working on **Full Stack Enterprise Applications (.NET & Angular)**.
 - 🌱 I’m currently learning **Microservices, Docker & CI/CD Pipelines**.
-- 💼 Open to work as a **Junior .NET Backend Developer**.
-- 💬 Ask me about **C#, .NET 8, EF Core, SQL Server, Clean Architecture**.
+- 💼 Open to work as a **Full Stack Developer / Software Engineer**.
+- 💬 Ask me about **C#, .NET 8, Angular 18, TypeScript, Clean Architecture**.
 - 📫 Reach me at: **adelmagdymacknota@gmail.com**
 
 <br/>
@@ -32,7 +32,7 @@
 </div>
 
 - 🔹 **Microservices Architecture with .NET**
-- 🔹 **Advanced System Design & Scalability**
+- 🔹 **Advanced Frontend State Management (NgRx)**
 - 🔹 **CI/CD Pipelines (GitHub Actions & Azure DevOps)**
 
 <br/>
@@ -43,8 +43,8 @@
 
 🚀 **Open for Full-time Roles, Freelance Projects, and Collaboration in:**
 
-- **Backend System Design & Development**
-- **Building High-Performance REST APIs**
+- **Full Stack System Design & Development**
+- **Building High-Performance REST APIs & Dynamic UIs**
 - **Cloud-Native Applications (.NET & Docker)**
 
 <br/>
@@ -63,10 +63,10 @@
   <h2>🚧 Featured Projects</h2>
 </div>
 
-- 🛒 [**E-Commerce API (Store.G02)**](https://github.com/Macknota/E-Commerce)
-  - A robust, scalable RESTful API built with **.NET 8** and **Clean Architecture**.
-  - Features: **Specification Pattern**, **Redis Caching**, **Stripe Payment**, **Docker Support**.
-  - Technologies: C#, ASP.NET Core, EF Core, SQL Server, Redis.
+- 🛒 [**E-Commerce Full Stack Application (Store.G02)**](https://github.com/Macknota/E-Commerce)
+  - A robust, scalable web application built with **.NET 8 (Backend)** and **Angular (Frontend)**.
+  - Features: **Clean Architecture**, **Specification Pattern**, **Redis Caching**, **Stripe Payment Integration**.
+  - Technologies: C#, ASP.NET Core, Angular, TypeScript, Tailwind CSS, SQL Server, Redis.
 
 <br/>
 
@@ -82,7 +82,7 @@
   <h2>🛠️ Tech Stack</h2>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,git,github,postman,visualstudio,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,js,html,css,tailwind,redis,docker,git,github,postman,visualstudio,vscode&perline=8" />
   </a>
 </div>  
 
@@ -122,11 +122,14 @@
 
 <div align="center">
   <h2>🤝 Let's Connect</h2>
+  <a href="https://adelmacknota.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/adel-magdy-net/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:adelmagdymacknota@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
