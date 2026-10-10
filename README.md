@@ -1,139 +1,145 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-   
-  <h1 align="center">Hi there, I'm Adel Magdy 👋</h1>
-  <h3 align="center">🚀 Full Stack Software Engineer (.NET & Angular) | Clean Architecture Enthusiast</h3>
 
-  ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:1E3A5F&height=180&section=header&text=Adel%20Magdy%20Macknota&fontSize=42&fontColor=F4F6FB&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=60&descColor=5EEAD4" width="100%" alt="Adel Magdy Macknota — Full Stack Software Engineer"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Building+Scalable+APIs+(.NET+8);Crafting+UIs+(Angular+18);Clean+Architecture+%26+SOLID;SQL+Server,+Redis+%26+Docker" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=560&lines=Building+software+where+getting+it+wrong+costs+money.;Fintech+%C2%B7+Payments+%C2%B7+Compliance+Systems;.NET+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Next.js" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="https://adelmacknota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/adel-magdy-net"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:adelmagdymacknota@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Part--time-5EEAD4?style=for-the-badge&labelColor=0A0F1E" alt="Open to freelance and part-time work"/>
 
 </div>
 
-<br/>
+---
 
-<div align="center"> 
-  <h2>🧐 About Me</h2>
+## About me
+
+I'm a **Full Stack Software Engineer** working across the **.NET** and **Node.js** ecosystems, focused on **fintech, payments and compliance systems** — software that has to be correct, auditable and safe to retry.
+
+I build ASP.NET Core and NestJS backends on SQL Server and PostgreSQL, and React, Next.js and Angular frontends. I care about architecture as much as working code: clean boundaries, idempotent operations, full audit trails, and no shortcuts on anything that touches money.
+
+📍 Cairo, Egypt &nbsp;·&nbsp; 🗣️ Arabic (native), English (professional) &nbsp;·&nbsp; 💼 Full Stack Software Engineer @ Asus Card
+
+---
+
+## What I'm building
+
+> Professional work lives in private company repositories, so it's described here rather than linked.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **E-Invoicing Integration Hub** | Wraps the full ZATCA Phase 2 compliance workflow behind a single API: onboarding, certificates, B2B clearance, B2C reporting, invoice chain integrity and webhooks. Validated against ZATCA Sandbox & Simulation. | NestJS · Next.js · PostgreSQL · Prisma · BullMQ · Docker |
+| **Payment Reconciliation Platform** | Matches bank settlements, gateway data and merchant transactions, and flags every mismatch, refund, duplicate and fee, with a real-time dashboard. | .NET · EF Core · React · SQL Server · Hangfire · SignalR |
+| **Multi-Brand E-Commerce Storefronts** | Live, Arabic-first stores for digital gift cards and game top-ups, served from one multi-tenant React codebase — [purple-card.com](https://www.purple-card.com) · [ish7an.com](https://www.ish7an.com) | React · TypeScript · Vite · Tailwind · TanStack Query · Playwright |
+| **AI-Powered SEO Automation** | Detects SEO gaps across an e-commerce catalog and generates recommendations grounded in real search data, with multi-provider LLM fallback, human review and rollback. | NestJS · Next.js · Python · Google Search Console API · LLMs |
+
+### Highlights from the storefronts
+
+- ⚡ Cut store home pages from **1.9 MB → 220 KB** of JavaScript by isolating brand and template code
+- 📐 Eliminated mobile layout shift: **CLS 0.81 → ~0**
+- 🔎 Fixed cross-store SEO on a client-rendered app: slug-based URLs, preserved canonicals and JSON-LD, and bilingual FAQs auto-generated for every product page
+- 🎁 Built a complete loyalty system from scratch — customer points, tiers and Shop with Points, plus the merchant control center
+
+---
+
+## Open-source projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Store — E-Commerce REST API](https://github.com/Macknota/E-Commerce)
+
+A production-style e-commerce backend built with **Clean (Onion) Architecture** across 4 layers.
+
+- Specification Pattern with a Generic Repository
+- Redis-cached basket
+- JWT auth and role-based authorization on 20+ endpoints
+- Stripe payments and Docker deployment
+
+`.NET 8` `ASP.NET Core` `EF Core` `SQL Server` `Redis` `Stripe` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Social Connections Platform
+
+A full stack social app with real-time messaging and live presence.
+
+- Angular 18 SPA with 10+ reusable components
+- Real-time chat and presence with SignalR hubs
+- Secure REST API (15+ endpoints) with JWT
+- Likes/matches modelling and cloud photo storage
+
+`.NET 8` `Angular 18` `SignalR` `SQL Server` `EF Core` `Identity`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech stack
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,prisma&theme=dark" alt="Backend"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,tailwind,vite&theme=dark" alt="Frontend"/>
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,githubactions,git&theme=dark" alt="Data and infrastructure"/>
+
 </div>
 
-- 🔭 I’m currently working on **Full Stack Enterprise Applications (.NET & Angular)**.
-- 🌱 I’m currently learning **Microservices, Docker & CI/CD Pipelines**.
-- 💼 Open to work as a **Full Stack Developer / Software Engineer**.
-- 💬 Ask me about **C#, .NET 8, Angular 18, TypeScript, Clean Architecture**.
-- 📫 Reach me at: **adelmagdymacknota@gmail.com**
+**Also:** SQL Server · Entity Framework Core · SignalR · Hangfire · BullMQ · TanStack Query · RxJS · Playwright · Vitest · Stripe · Microsoft Graph · Google Search Console API · LLM APIs
 
-<br/>
+---
 
-<div align="center">
-  <h2>📚 Currently Learning</h2>
-</div>
+## How I work
 
-- 🔹 **Microservices Architecture with .NET**
-- 🔹 **Advanced Frontend State Management (NgRx)**
-- 🔹 **CI/CD Pipelines (GitHub Actions & Azure DevOps)**
+- **Correctness first** — idempotency keys, safe retries and audit logs on anything financial
+- **Clean architecture** — clear layers, SOLID, and patterns that earn their place
+- **Measured performance** — every optimization comes with before/after numbers
+- **Tested end to end** — unit, API and browser tests, guarded by CI
 
-<br/>
+## Currently learning
 
-<div align="center">
-  <h2>🤝 Let's Collaborate</h2>
-</div>
+- System design and distributed systems
+- Microservices with .NET
+- Cloud deployment and CI/CD pipelines
 
-🚀 **Open for Full-time Roles, Freelance Projects, and Collaboration in:**
+## Education
 
-- **Full Stack System Design & Development**
-- **Building High-Performance REST APIs & Dynamic UIs**
-- **Cloud-Native Applications (.NET & Docker)**
+- 🎓 **B.Sc. in Computer Science** — Benha University (2023)
+- 🏅 **Back-End Development Diploma** — Route Academy (2025)
 
-<br/>
+---
 
 <div align="center">
-  <h2>🎓 Certifications</h2>
-</div>
 
-- 🏅 **Back-End Development Diploma** - Route Academy (2025)
-  - Intensive training covering advanced C#, databases, and enterprise API development.
-- 🎓 **Bachelor of Science in Computer Science** - Benha University (2023)
+### Let's work together
 
-<br/>
+Open to **remote freelance and part-time** work: backend APIs, payment and third-party integrations, and full stack web apps.
 
-<div align="center">
-  <h2>🚧 Featured Projects</h2>
-</div>
+<a href="https://adelmacknota.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/adel-magdy-net">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:adelmagdymacknota@gmail.com">adelmagdymacknota@gmail.com</a>
 
-- 🛒 [**E-Commerce Full Stack Application (Store.G02)**](https://github.com/Macknota/E-Commerce)
-  - A robust, scalable web application built with **.NET 8 (Backend)** and **Angular (Frontend)**.
-  - Features: **Clean Architecture**, **Specification Pattern**, **Redis Caching**, **Stripe Payment Integration**.
-  - Technologies: C#, ASP.NET Core, Angular, TypeScript, Tailwind CSS, SQL Server, Redis.
+<br/><br/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Macknota&style=flat-square&color=0A0F1E&label=Profile+views" alt="Profile views"/>
 
-<div align="center">
-  <h2>🌟 Highlights</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Macknota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macknota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages graph" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:0A0F1E&height=100&section=footer" width="100%" alt=""/>
 
-<br/>
-
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,js,html,css,tailwind,redis,docker,git,github,postman,visualstudio,vscode&perline=8" />
-  </a>
-</div>  
-
-
-<br/>
-
-<div align="center">
-  <h2>🔧 Tools I Use Daily</h2>
-  
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>⚡ Fun Section</h2>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-  
-  <br/><br/>
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500" alt="Dev Joke" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>🌍 Visitors Map</h2>
-  <a href="https://github.com/Macknota">
-  <img src="https://komarev.com/ghpvc/?username=Macknota&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  <a href="https://adelmacknota.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/adel-magdy-net/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adelmagdymacknota@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<br/>
-<div align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i>
 </div>
